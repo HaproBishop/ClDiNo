@@ -1,2 +1,0 @@
-# ClDiNo (Class Diagram)
-
