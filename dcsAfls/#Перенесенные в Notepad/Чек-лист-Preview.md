@@ -1,0 +1,11 @@
+#### Чек-лист
+Выполняемая задача | Статус
+:-------------------|:-----------------
+Запустил программу | <p><input type="radio" name="test1">Пройдено</p><p><input type="radio" name="test1">Неудачно</p><p><input type="radio" name="test1">Заблокировано</p><p><input type="radio" name="test1">Пропущено</p><p><input type="radio" name="test1">Не работает</p>
+Запустил игру | <p><input type="radio" name="test2">Пройдено</p><p><input type="radio" name="test2">Неудачно</p><p><input type="radio" name="test2">Заблокировано</p><p><input type="radio" name="test2">Пропущено</p><p><input type="radio" name="test2">Не работает</p>
+Нажал кнопку "Влево" | <p><input type="radio" name="test3">Пройдено</p><p><input type="radio" name="test3">Неудачно</p><p><input type="radio" name="test3">Заблокировано</p><p><input type="radio" name="test3">Пропущено</p><p><input type="radio" name="test3">Не работает</p>
+Нажал кнопку "Вправо" | <p><input type="radio" name="test4">Пройдено</p><p><input type="radio" name="test4">Неудачно</p><p><input type="radio" name="test4">Заблокировано</p><p><input type="radio" name="test4">Пропущено</p><p><input type="radio" name="test4">Не работает</p>
+Нажал кнопку "Вверх" | <p><input type="radio" name="test5">Пройдено</p><p><input type="radio" name="test5">Неудачно</p><p><input type="radio" name="test5">Заблокировано</p><p><input type="radio" name="test5">Пропущено</p><p><input type="radio" name="test5">Не работает</p>
+Нажал кнопку "Вниз" | <p><input type="radio" name="test6">Пройдено</p><p><input type="radio" name="test6">Неудачно</p><p><input type="radio" name="test6">Заблокировано</p><p><input type="radio" name="test6">Пропущено</p><p><input type="radio" name="test6">Не работает</p>
+Завершил игру победой | <p><input type="radio" name="test7">Пройдено</p><p><input type="radio" name="test7">Неудачно</p><p><input type="radio" name="test7">Заблокировано</p><p><input type="radio" name="test7">Пропущено</p><p><input type="radio" name="test7">Не работает</p>
+Завершил игру поражением | <p><input type="radio" name="test8">Пройдено</p><p><input type="radio" name="test8">Неудачно</p><p><input type="radio" name="test8">Заблокировано</p><p><input type="radio" name="test8">Пропущено</p><p><input type="radio" name="test8">Не работает</p>
