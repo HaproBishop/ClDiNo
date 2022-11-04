@@ -1,0 +1,52 @@
+E:\Программирование\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+E:\Программирование\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+E:\Программирование\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+E:\Программирование\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.Cache
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+E:\Программирование\2048_Game\2048_Game\obj\Debug\2048_Game.csprojResolveAssemblyReference.cache
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csprojResolveAssemblyReference.cache
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.Cache
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.CoreCompileInputs.cache
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+G:\Макарьев работы\ТРПО\4 курс\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csprojResolveAssemblyReference.cache
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+C:\Users\п-41\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.Cache
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csprojResolveAssemblyReference.cache
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.Cache
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.CoreCompileInputs.cache
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+C:\Users\Greed\Desktop\курсач\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.AssemblyReference.cache
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.cache
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.CoreCompileInputs.cache
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+C:\Users\исп-41\Desktop\Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\bin\Debug\2048_Game.exe
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\bin\Debug\2048_Game.pdb
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.AssemblyReference.cache
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\_2048_Game.Form1.resources
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\_2048_Game.Properties.Resources.resources
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.GenerateResource.cache
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.csproj.CoreCompileInputs.cache
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.exe
+C:\Users\Hapro\OneDrive\Рабочий стол\01.02 - Docs - IP - 04-06 Planned Work\#Практическая работа_новая\9\2048_Game\2048_Game\obj\Debug\2048_Game.pdb
